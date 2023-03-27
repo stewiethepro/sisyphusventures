@@ -311,13 +311,13 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I started in science.
+                With a PhD in Neuroscience, I have always been interested in technology and research. After working as a Scientist at Oxford University and Auckland University, and as a Consultant at PwC, I became increasingly interested in crypto and blockchain technology.
               </p>
               <p>
-                Then I did consulting.
+                I became interested in digital art in 2020 and after spending a while researching many artists and platforms, purchased my first piece in 2021. After becoming increasingly familiar with the space, I became interested in testing various DeFi platforms, protocols and chains.
               </p>
               <p>
-                Now I do crypto.
+                Today my interests lie in the Ethereum ecosystem, and I am excited by the recent developments in layer 2 chains and zk rollups.
               </p>
             </div>
           </div>

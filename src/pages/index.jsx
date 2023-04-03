@@ -51,6 +51,7 @@ import logoScroll from '@/images/logos/scroll.svg'
 import logoStarkware from '@/images/logos/starkware.svg'
 import logoSuperrare from '@/images/logos/superrare.png'
 import logoTreasure from '@/images/logos/treasure.png'
+import logoUrbit from '@/images/logos/urbit.svg'
 import logoYuga from '@/images/logos/yuga.png'
 import logoZksync from '@/images/logos/zksync.svg'
 
@@ -371,6 +372,13 @@ const projects = [
       '',
     link: { href: 'https://treasure.lol/', label: 'treasure.lol' },
     logo: logoTreasure,
+  },
+  {
+    name: 'Urbit',
+    description:
+      '',
+    link: { href: 'https://urbit.org/', label: 'urbit.org' },
+    logo: logoUrbit,
   },
   {
     name: 'Yuga',

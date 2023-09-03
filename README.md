@@ -1,5 +1,4 @@
 # Sisyphus Ventures
 
-Sisyphus Ventures is an investment office focused solely on digital assets.
+[Sisyphus Ventures](https://sisyphus.ventures) is an investment office focused solely on digital assets.
 
-- [sisyphus.ventures](https://sisyphus.ventures)

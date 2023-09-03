@@ -85,7 +85,7 @@ function ArrowDownIcon(props) {
 function ResumePeter() {
   let resume = [
     {
-      company: 'Elizabape Homes',
+      company: 'Sisyphus Ventures',
       title: 'Partner',
       logo: logoElizabapeHomes,
       start: '2021',
@@ -169,7 +169,7 @@ function ResumePeter() {
 function ResumeEmma() {
   let resume = [
     {
-      company: 'Elizabape Homes',
+      company: 'Sisyphus Ventures',
       title: 'Partner',
       logo: logoElizabapeHomes,
       start: '2021',
@@ -254,7 +254,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Team - Elizabape Homes</title>
+        <title>Team - Sisyphus Ventures</title>
         <meta
           name="description"
           content="I’m Spencer Sharp. I live in New York City, where I design the future."

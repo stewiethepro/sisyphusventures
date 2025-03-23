@@ -275,7 +275,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Focus Areas- Sisyphus Ventures</title>
+        <title>Focus Areas- Diffusion Capital</title>
         <meta
           name="description"
           content="What we do."

@@ -500,11 +500,11 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-        Sisyphus Ventures - Digital Asset Investment
+        Diffusion Capital - Digital Asset Investment
         </title>
         <meta
           name="description"
-          content="Sisyphus Ventures - Digital Asset Investment"
+          content="Diffusion Capital - Digital Asset Investment"
         />
       </Head>
       <Container className="mt-9">
@@ -513,7 +513,7 @@ export default function Home({ articles }) {
             Investing in the new internet.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Sisyphus Ventures is an investment office focused solely on digital assets.
+            Diffusion Capital is an investment office focused solely on digital assets.
           </p>
           {/* <div className="mt-6 flex gap-6">
             <SocialLink

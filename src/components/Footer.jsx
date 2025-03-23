@@ -25,7 +25,7 @@ export function Footer() {
                 <NavLink href="/about">Team</NavLink>
               </div>
               <p className="text-sm text-zinc-400 dark:text-zinc-500">
-                &copy; {new Date().getFullYear()} Sisyphus Ventures Ltd. All rights
+                &copy; {new Date().getFullYear()} Diffusion Capital Ltd. All rights
                 reserved.
               </p>
             </div>
